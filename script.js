@@ -1,4 +1,3 @@
-const { use } = require("react");
 
 document.addEventListener('DOMContentLoaded', () =>{
     let board = null;
